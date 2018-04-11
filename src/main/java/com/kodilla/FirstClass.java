@@ -1,5 +1,5 @@
 package com.kodilla;
 
 public class FirstClass {
-//    komentarz
+//    komentarz,bnnmmm
 }
